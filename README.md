@@ -1,4 +1,4 @@
-# Motd-server
+# Motd-server Debian / Ubuntu
 
 ![img](https://i.imgur.com/3fkhK0o.png)
 ------------------------------------------------------
