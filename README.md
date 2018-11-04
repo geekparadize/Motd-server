@@ -1,6 +1,6 @@
 # Motd-server
 
-![img](https://imgur.com/a/igiAPUC)
+![img](https://i.imgur.com/3fkhK0o.png)
 ------------------------------------------------------
 Requirement
 
