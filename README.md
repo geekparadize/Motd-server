@@ -17,7 +17,9 @@ apt install toilet
 ```
 cd /etc
 
-git clone https://github.com/geekparadize/Motd-server.git
+git clone https://github.com/geekparadize/motd-server.git
 
-echo 'sh /etc/motd-server.sh' >> /etc/profile
+cd /etc/motd-server
+
+echo 'sh /etc/motd-server/motd-server.sh' >> /etc/profile
 ```
