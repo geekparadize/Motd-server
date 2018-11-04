@@ -19,5 +19,5 @@ cd /etc
 
 git clone https://github.com/geekparadize/Motd-server.git
 
-echo 'sh /etc/motd.sh' >> /etc/profile
+echo 'sh /etc/motd-server.sh' >> /etc/profile
 ```
