@@ -4,6 +4,7 @@
 Requirement
 
 - Figlet
+
  apt install figlet
 
 - Toilet
